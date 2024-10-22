@@ -6,7 +6,7 @@
     font-family: 'Arial', sans-serif;
 }
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; /* Enable smooth scrolling */
 }
 
 /* Styling the body */
@@ -341,12 +341,12 @@ body {
     padding: 2rem;
     background-color: #ffffff;
     color: #333;
-
+}
 .skills-section h2 {
     text-align: center; 
     margin-bottom: 1.5rem;
     font-size: 2rem;
-
+}
 .skills-container {
     display: flex;
     flex-wrap: wrap;
